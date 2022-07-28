@@ -5,7 +5,7 @@
 <br><br>
 
 <b>Input:</b><br>
-   <p style="margin-left: 40px"> 
+   <p style="text-indent: 40px"> 
    <b>p</b>, principal amount<br> 
    <b>t</b>, time period in years<br> 
    <b>r</b>, annual rate of interest<br> 
